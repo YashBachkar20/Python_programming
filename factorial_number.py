@@ -10,3 +10,4 @@ else:
     for i in range(1,num + 1):
         factorial *=i 
     print("The factorial number",num," is ",factorial)
+    
